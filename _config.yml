@@ -192,7 +192,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _bibliography/
+  # - _bibliography/
   - _pages/publications.md
   - _news/announcement_*.md
   - _pages/blog.md
