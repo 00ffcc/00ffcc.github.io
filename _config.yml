@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhiyu Gui&nbsp;|&nbsp;桂 之 瑜 # the website title (if blank, full name will be used instead)
+title: 桂之瑜 # the website title (if blank, full name will be used instead)
 first_name: 桂
-middle_name: 
+middle_name: blank 
 last_name: 之瑜
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
