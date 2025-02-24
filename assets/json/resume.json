@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "桂之瑜",
+    "label": "本科生",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "guizhiyu@mail.ustc.edu.cn",
+    "phone": "18005859962",
+    "url": "00ffcc.github.io",
+    "summary": "中国科学技术大学 少年班学院 计算机科技英才班 大三在读",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "蜀山区高新技术产业开发区复兴路100号",
+      "postalCode": "230031",
+      "city": "合肥市",
+      "countryCode": "中华人民共和国",
+      "region": "安徽省"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "知乎",
+        "username": "00ffcc",
+        "url": "https://www.zhihu.com/people/00ffcc"
       }
     ]
   },
@@ -47,14 +47,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "中国科学技术大学",
+      "location": "安徽，合肥",
+      "url": "https://ustc.edu.cn",
+      "area": "计算机科学与技术",
+      "studyType": "本科",
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-30",
+      "score": "3.84/4.3",
       "courses": ["Theory of Relativity"]
     }
   ],
