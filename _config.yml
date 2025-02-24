@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 桂
-middle_name: R
+middle_name: 
 last_name: 之瑜
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -207,6 +207,7 @@ exclude:
   - _plugins/hide-custom-bibtex.rb
   - _plugins/inspirehep-citations.rb
   - _pages/teaching.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
