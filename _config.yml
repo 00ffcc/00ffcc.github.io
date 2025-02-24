@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 桂
-middle_name: R
+middle_name: 
 last_name: 之瑜
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -195,7 +195,6 @@ exclude:
   - _bibliography/
   - _pages/publications.md
   - _news/announcement_*.md
-  - _pages/blog.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
