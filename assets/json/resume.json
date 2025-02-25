@@ -127,10 +127,10 @@
   "publications": [
     {
       "name": "AttnInput: Advancing Context-Aware Pinyin Input with Efficient Language Model Integration",
-      "publisher": "ALC2025在投",
+      "publisher": "111",
       "releaseDate": "2025-02-16",
       "url": "https://openreview.net/pdf?id=KdYsPwavXr",
-      "summary": "使用大语言模型增强拼音输入法，在首字母简拼上达到SOTA性能，并大幅降低了训练成本。"
+      "summary": "1111"
     }
   ],
   "skills": [
