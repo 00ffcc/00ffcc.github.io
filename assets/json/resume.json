@@ -107,26 +107,7 @@
         "Python",
         "C",
         "Cpp",
-        "Cython",
-        "SQL"
-      ]
-    },
-    {
-      "name": "前端开发",
-      "level": "熟练",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyQt"
-      ]
-    },
-    {
-      "name": "GPU Kernel开发",
-      "level": "熟练",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Triton",
-        "CUDA",
-        "HIP"
+        "Cython"
       ]
     }
   ],
