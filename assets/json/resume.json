@@ -54,62 +54,33 @@
       "studyType": "本科",
       "startDate": "2022-09-01",
       "endDate": "2026-06-30",
-      "score": "3.84/4.3",
-      "courses": ["Theory of Relativity"]
+      "score": "3.84/4.3"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "中国科学技术大学RoboGame2023机器人大赛 冠军",
+      "date": "2023-11",
+      "awarder": "中国科学技术大学",
+      "url": "https://virlab.ustc.edu.cn/2023/1026/c20889a615778/page.htm",
+      "summary": "负责机器人视觉、定位、通信。"
+    },
+    {
+      "title": "中国科学技术大学人工智能创新应用大赛 冠军",
+      "date": "2023-9",
+      "awarder": "中国科学技术大学信息科学技术学院",
+      "url": "https://www.teach.ustc.edu.cn/notice/notice-info/17079.html",
+      "summary": "单人完成，主要涉及图像语义分割。"
+    },
+    {
+      "title": "RWKV 2025 生态内容征集大赛 银奖",
+      "date": "2025-1",
+      "awarder": "元始智能",
+      "url": "https://rwkv.cn/news/read?id=32",
+      "summary": "单人完成了首个支持continuous-batching的RWKV后端推理框架，奖金2888元。"
     }
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
