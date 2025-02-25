@@ -100,33 +100,16 @@
   ],
   "skills": [
     {
-      "name": "后端开发",
+      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "C",
-        "Cpp",
-        "Cython",
-        "SQL"
-      ]
-    },
-    {
-      "name": "前端开发",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyQt"
-      ]
-    },
-    {
-      "name": "GPU Kernel开发",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Triton",
-        "CUDA",
-        "HIP"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
