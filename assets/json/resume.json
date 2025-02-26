@@ -22,29 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "中国科学技术大学",
@@ -95,7 +72,7 @@
       "publisher": "ALC2025在投",
       "releaseDate": "2025-02-16",
       "url": "https://openreview.net/pdf?id=KdYsPwavXr",
-      "summary": "使用大语言模型增强拼音输入法，在首字母简拼上达到SOTA性能，并大幅降低了训练成本。"
+      "summary": "使用大语言模型增强拼音输入法，在首字母简拼上达到SOTA性能，同时大幅降低了训练成本。"
     }
   ],
   "skills": [
@@ -128,42 +105,72 @@
         "CUDA",
         "HIP"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "硬件开发",
+      "level": "熟练",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Verilog",
+        "嘉立创EDA",
+        "会搭服务器"
+      ]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "LLM",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "LLM Reasoning",
+        "LLM 推理优化",
+        "线性 LLM 结构设计",
+        "LLM 可解释性"
+      ]
+    },  
+    {
+      "name": "具身智能",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "灵巧手",
+        "视触觉传感器"
+      ]
+    },
+    {
+      "name": "自动驾驶",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "内河航运自动驾驶、辅助驾驶"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "切题输入法(AttnInput)",
+      "summary": "使用大语言模型增强拼音输入法，负责全部后端模型推理与训练工作，已获得奇绩创投口头投资承诺。",
+      "highlights": ["Pinyin IME", "LLM", "RWKV"],
+      "startDate": "2024-02-01",
+      "endDate": "2025-02-01",
+      "url": "https://openreview.net/pdf?id=KdYsPwavXr"
+    },
+    {
+      "name": "conRWKV",
+      "summary": "首个支持continuous-batching和chunk prefill的高并发RWKV后端推理框架，大幅缩短TTFT，提供了兼容OpenAI格式的api接口",
+      "highlights": ["LLM", "RWKV"],
+      "startDate": "2025-01-20",
+      "endDate": "2025-02-13",
+      "url": "https://github.com/00ffcc/conRWKV"
+    }
+  ],
+  "work": [
+    {
+      "name": "浙江蓝城智舸科技有限公司",
+      "position": "实习生",
+      "url": "https://aiqicha.baidu.com/detail/compinfo?pid=xlTM-TogKuTwXKasGgcN4QgX51g5fKBTYgmd&pd=aen&from=ps&query=%E8%93%9D%E5%9F%8E%E6%99%BA%E8%88%B8%E7%A7%91%E6%8A%80",
+      "startDate": "2025-01-10",
+      "endDate": "2025-02-23",
+      "summary": "参与研发内河新能源船舶的自动驾驶技术",
+      "highlights": ["自动驾驶"]
     }
   ]
 }
