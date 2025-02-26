@@ -27,11 +27,11 @@
       "institution": "中国科学技术大学",
       "location": "安徽，合肥",
       "url": "https://ustc.edu.cn",
-      "area": "计算机科学与技术",
+      "area": "计算机科学与技术专业",
       "studyType": "本科",
       "startDate": "2022-09-01",
       "endDate": "2026-06-30",
-      "score": "3.84/4.3"
+      "score": "26/215"
     }
   ],
   "awards": [
@@ -57,13 +57,29 @@
       "summary": "单人完成了首个支持continuous-batching的RWKV后端推理框架，奖金2888元。"
     }
   ],
-  "certificates": [
+  "projects": [
     {
-      "name": "鲲鹏昇腾特训营结营证书",
-      "date": "2024-07-12",
-      "issuer": "华为计算产品线总裁 张熙伟",
-      "url": "https://cs.ustc.edu.cn/2024/0719/c37112a669567/pagem.htm",
-      "icon": "fa-solid fa-location-dot"
+      "name": "切题输入法(AttnInput)",
+      "summary": "使用大语言模型增强拼音输入法，负责全部后端模型推理与训练工作，已获得奇绩创投口头投资承诺。",
+      "highlights": [
+        "Pinyin IME",
+        "LLM",
+        "RWKV"
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "2025-02-01",
+      "url": "https://openreview.net/pdf?id=KdYsPwavXr"
+    },
+    {
+      "name": "conRWKV",
+      "summary": "首个支持continuous-batching和chunk prefill的高并发RWKV后端推理框架，大幅缩短TTFT，提供了兼容OpenAI格式的api接口",
+      "highlights": [
+        "LLM",
+        "RWKV"
+      ],
+      "startDate": "2025-01-20",
+      "endDate": "2025-02-13",
+      "url": "https://github.com/00ffcc/conRWKV"
     }
   ],
   "publications": [
@@ -127,7 +143,7 @@
         "线性 LLM 结构设计",
         "LLM 可解释性"
       ]
-    },  
+    },
     {
       "name": "具身智能",
       "icon": "fa-solid fa-tag",
@@ -144,22 +160,13 @@
       ]
     }
   ],
-  "projects": [
+  "certificates": [
     {
-      "name": "切题输入法(AttnInput)",
-      "summary": "使用大语言模型增强拼音输入法，负责全部后端模型推理与训练工作，已获得奇绩创投口头投资承诺。",
-      "highlights": ["Pinyin IME", "LLM", "RWKV"],
-      "startDate": "2024-02-01",
-      "endDate": "2025-02-01",
-      "url": "https://openreview.net/pdf?id=KdYsPwavXr"
-    },
-    {
-      "name": "conRWKV",
-      "summary": "首个支持continuous-batching和chunk prefill的高并发RWKV后端推理框架，大幅缩短TTFT，提供了兼容OpenAI格式的api接口",
-      "highlights": ["LLM", "RWKV"],
-      "startDate": "2025-01-20",
-      "endDate": "2025-02-13",
-      "url": "https://github.com/00ffcc/conRWKV"
+      "name": "鲲鹏昇腾特训营结营证书",
+      "date": "2024-07-12",
+      "issuer": "华为计算产品线总裁 张熙伟",
+      "url": "https://cs.ustc.edu.cn/2024/0719/c37112a669567/pagem.htm",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "work": [
@@ -169,8 +176,7 @@
       "url": "https://aiqicha.baidu.com/detail/compinfo?pid=xlTM-TogKuTwXKasGgcN4QgX51g5fKBTYgmd&pd=aen&from=ps&query=%E8%93%9D%E5%9F%8E%E6%99%BA%E8%88%B8%E7%A7%91%E6%8A%80",
       "startDate": "2025-01-10",
       "endDate": "2025-02-23",
-      "summary": "参与研发内河新能源船舶的自动驾驶技术",
-      "highlights": ["自动驾驶"]
+      "summary": "参与研发内河新能源船舶的自动驾驶技术"
     }
   ]
 }
