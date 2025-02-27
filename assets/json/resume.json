@@ -6,7 +6,7 @@
     "email": "guizhiyu@mail.ustc.edu.cn",
     "phone": "18005859962",
     "url": "00ffcc.github.io",
-    "summary": "中国科学技术大学 少年班学院 计算机科技英才班 大三在读",
+    "summary": "中国科学技术大学 少年班学院 计算机科技英才班 大三在读，GPA：3.85/4.3，排名：26/215。",
     "location": {
       "address": "蜀山区高新技术产业开发区复兴路100号",
       "postalCode": "230031",
@@ -68,11 +68,11 @@
       ],
       "startDate": "2024-02-01",
       "endDate": "2025-02-01",
-      "url": "https://openreview.net/pdf?id=KdYsPwavXr"
+      "url": "https://00ffcc.tech/assets/pdf/attninput.pdf"
     },
     {
       "name": "conRWKV",
-      "summary": "首个支持continuous-batching和chunk prefill的高并发RWKV后端推理框架，大幅缩短TTFT，提供了兼容OpenAI格式的api接口",
+      "summary": "首个支持continuous-batching和chunk prefill的高并发RWKV后端推理框架，大幅缩短TTFT，提供了兼容OpenAI格式的api接口。",
       "highlights": [
         "LLM",
         "RWKV"
@@ -85,9 +85,9 @@
   "publications": [
     {
       "name": "AttnInput: Advancing Context-Aware Pinyin Input with Efficient Language Model Integration",
-      "publisher": "ALC2025在投",
+      "publisher": "ACL2025在投",
       "releaseDate": "2025-02-16",
-      "url": "https://openreview.net/pdf?id=KdYsPwavXr",
+      "url": "https://00ffcc.tech/assets/pdf/attninput.pdf",
       "summary": "使用大语言模型增强拼音输入法，在首字母简拼上达到SOTA性能，同时大幅降低了训练成本。"
     }
   ],
@@ -130,6 +130,17 @@
         "Verilog",
         "嘉立创EDA",
         "会搭服务器"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "熟练",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PyTorch",
+        "Transformers",
+        "vLLM",
+        "FastAPI"
       ]
     }
   ],
