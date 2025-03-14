@@ -74,9 +74,7 @@
       "name": "切题输入法(AttnInput)",
       "summary": "使用大语言模型增强拼音输入法，负责全部后端模型推理与训练工作，已获得奇绩创投口头投资承诺。",
       "highlights": [
-        "Pinyin IME",
-        "LLM",
-        "RWKV"
+        "RL"
       ],
       "startDate": "2024-02-01",
       "endDate": "2025-02-01",
