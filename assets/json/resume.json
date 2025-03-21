@@ -62,9 +62,7 @@
       "name": "Count-R1",
       "summary": "在数数任务上复现了Deepseek-R1 ZERO",
       "highlights": [
-        "Pinyin IME",
-        "LLM",
-        "RWKV"
+        "RL"
       ],
       "startDate": "2025-03-10",
       "endDate": "2025-03-14",
@@ -74,7 +72,9 @@
       "name": "切题输入法(AttnInput)",
       "summary": "使用大语言模型增强拼音输入法，负责全部后端模型推理与训练工作，已获得奇绩创投口头投资承诺。",
       "highlights": [
-        "RL"
+        "Pinyin IME",
+        "LLM",
+        "RWKV"
       ],
       "startDate": "2024-02-01",
       "endDate": "2025-02-01",
