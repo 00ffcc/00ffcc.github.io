@@ -6,7 +6,7 @@
     "email": "guizhiyu@mail.ustc.edu.cn",
     "phone": "18005859962",
     "url": "00ffcc.tech",
-    "summary": "中国科学技术大学 少年班学院 计算机科技英才班 大三在读，GPA：3.85/4.3，排名：22/219。",
+    "summary": "中国科学技术大学 少年班学院 华夏计算机科技英才班 大三在读，GPA：3.85/4.3，排名：22/219。",
     "location": {
       "address": "蜀山区高新技术产业开发区复兴路100号",
       "postalCode": "230031",
@@ -31,7 +31,7 @@
       "studyType": "本科",
       "startDate": "2022-09-01",
       "endDate": "2026-06-30",
-      "score": "26/215"
+      "score": "22/219"
     }
   ],
   "awards": [
@@ -62,7 +62,8 @@
       "name": "Count-R1",
       "summary": "在数数任务上复现了Deepseek-R1 ZERO",
       "highlights": [
-        "RL"
+        "通过强化学习(不使用冷启动)将Qwen2.5-3B的正确率提高了40%，观察到了自发的思维链",
+        "证实了强化学习需要强大的基模，在小模型上蒸馏优于强化学习"
       ],
       "startDate": "2025-03-10",
       "endDate": "2025-03-14",
@@ -70,11 +71,11 @@
     },
     {
       "name": "切题输入法(AttnInput)",
-      "summary": "使用大语言模型增强拼音输入法，负责全部后端模型推理与训练工作，已获得奇绩创投口头投资承诺。",
+      "summary": "使用大语言模型增强拼音输入法，负责全部后端模型推理与训练工作，已获得奇绩创投口头投资承诺",
       "highlights": [
-        "Pinyin IME",
-        "LLM",
-        "RWKV"
+        "在首字母简拼上达到SOTA性能",
+        "大幅提高数据利用率，减少训练所需资源",
+        "基于RWKV线性大语言模型，支持无限长度上下文"
       ],
       "startDate": "2024-02-01",
       "endDate": "2025-02-01",
@@ -82,10 +83,11 @@
     },
     {
       "name": "conRWKV",
-      "summary": "首个支持continuous-batching和chunk prefill的高并发RWKV后端推理框架，大幅缩短TTFT，提供了兼容OpenAI格式的api接口。",
+      "summary": "首个支持continuous-batching和chunk prefill的高并发RWKV后端推理框架",
       "highlights": [
-        "LLM",
-        "RWKV"
+        "使用flash-linear-attention技术，提高了并行度，并且可以利用tensorcore，大幅提高推理速度",
+        "支持continuous-batching，确保高吞吐量",
+        "提供了兼容OpenAI格式的api接口"
       ],
       "startDate": "2025-01-20",
       "endDate": "2025-02-13",
